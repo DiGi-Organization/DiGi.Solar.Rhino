@@ -40,7 +40,7 @@ namespace DiGi.Solar.ComputeSharp.Rhino.Classes
     /// <summary>
     /// Represents a Grasshopper parameter component used to handle <see cref="GooShadingSolverOptions" /> data.
     /// </summary>
-    public class GooShadingSolverOptionsParam : GooPresistentParam<GooShadingSolverOptions, Solar.Classes.ShadingSolverOptions>
+    public class GooShadingSolverOptionsParam : GooPersistentParam<GooShadingSolverOptions, Solar.Classes.ShadingSolverOptions>
     {
         /// <summary>
         /// Gets the unique identifier for the <see cref="GooShadingSolverOptionsParam" /> component.
