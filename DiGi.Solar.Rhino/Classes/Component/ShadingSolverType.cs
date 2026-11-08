@@ -14,7 +14,7 @@ namespace DiGi.Solar.Rhino.Classes
         public override Guid ComponentGuid => new("f5f88580-5603-4c96-9874-3c5a641df941");
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="T:DiGi.Solar.Rhino.Classes.ShadingSolverType" /> class.
+        /// Initializes a new instance of the <see cref="DiGi.Solar.Rhino.Classes.ShadingSolverType" /> class.
         /// </summary>
         public ShadingSolverType()
           : base("Solar")

@@ -24,7 +24,7 @@ namespace DiGi.Solar.Rhino.Classes
         public override GH_Exposure Exposure => GH_Exposure.primary;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="T:DiGi.Solar.Rhino.Classes.ShadingModel" /> class.
+        /// Initializes a new instance of the <see cref="DiGi.Solar.Rhino.Classes.ShadingModel" /> class.
         /// </summary>
         public ShadingModel()
           : base("Solar.ShadingModel", "Solar.ShadingModel",
